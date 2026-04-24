@@ -1,6 +1,6 @@
 # Reymond (@rymndsh)
 
-Informatics student. Backend learner. Surviving bugs, learning server logic, and vibing to a sick playlist.
+Making things work behind the scenes. Informatics student focused on backend development, databases, and writing clean code.
 
 ### Currently Working On
 - Deepening my knowledge in Backend Architecture and server-side logic.
