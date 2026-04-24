@@ -17,3 +17,10 @@ I'm an Informatics student stepping into the world of Backend Development. I am 
 
 ### 📫 Let's Connect!
 - **Instagram:** [@rymndsh](https://www.instagram.com/rymndsh/)
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rymndsh&show_icons=true&hide_border=true&hide_rank=true&theme=transparent" alt="Reymond's GitHub Stats" />
+</p>
