@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Reymond (@rymndsh)
 
-I'm a passionate developer with a strong focus on **Backend Development**. I enjoy designing robust APIs, exploring complex algorithms, and building efficient architectures that make applications run smoothly behind the scenes.
+I'm an Informatics student stepping into the world of Backend Development. I am currently learning how to build APIs, understand server logic, and figure out how applications run smoothly behind the scenes.
 
 🎧 **Fun fact:** I do my best coding with a good playlist in the background!
 
